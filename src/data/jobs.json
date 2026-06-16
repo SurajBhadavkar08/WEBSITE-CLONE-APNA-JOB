@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "title": "Software Tester",
+    "company": "Tetra Edge Infra LLP",
+    "location": "Seshadripuram, Bengaluru/Bangalore",
+    "city": "Bengaluru",
+    "salary": "₹25,000 - ₹50,000 monthly",
+    "salaryDetails": {
+      "fixed": "₹25,000 - ₹50,000",
+      "earningPotential": "₹50,000"
+    },
+    "chips": [
+      { "type": "workMode", "text": "Work from Office", "icon": "Building" },
+      { "type": "jobType", "text": "Full Time", "icon": "Clock" },
+      { "type": "experience", "text": "Min. 1 year", "icon": "Briefcase" },
+      { "type": "english", "text": "Good (Intermediate / Advanced) English", "icon": "Languages" }
+    ],
+    "expired": true,
+    "hrReply": "Fast HR reply\nHR responded to 100% candidates in last 1 days",
+    "applicants": 190,
+    "aboutRole": "We are seeking a detail-oriented and motivated Software Tester to join our QA team. You will be responsible for executing manual and automated test cases, identifying software defects, and collaborating with developers to ensure the delivery of high-quality products. This position offers a chance to work on large-scale infrastructure mapping systems.",
+    "responsibilities": [
+      "Design, write, and execute detailed test cases based on product requirements.",
+      "Perform manual regression, functional, and smoke testing of web and desktop applications.",
+      "Log, track, and manage software defects in Jira, verifying fixes once resolved by devs.",
+      "Collaborate closely with software development and design teams to understand requirements.",
+      "Participate in product meetings, giving QA estimates and feedback."
+    ],
+    "requirements": [
+      "Good understanding of software testing methodologies (SDLC, STLC) and QA processes.",
+      "Experience in writing test plans, test cases, and bug reports.",
+      "Analytical mindset with high attention to detail and ability to think from user perspectives.",
+      "Strong communication skills to explain bugs and defects clearly to engineering teams.",
+      "Previous experience or certified course in QA testing is highly preferred."
+    ],
+    "skills": ["Manual Testing", "Test Case Design", "Defect Tracking", "Jira", "Regression Testing", "Smoke Testing", "Web App Testing"],
+    "perks": ["Health Insurance Coverage", "Flexible Working Hours", "Professional Certification Training Support", "Annual Performance Bonus", "Free Coffee & Snacks in Office"],
+    "companyInfo": {
+      "name": "Tetra Edge Infra LLP",
+      "website": "www.tetraedgeinfra.com",
+      "address": "4th Floor, Apex Tower, Seshadripuram, Bengaluru, Karnataka 560020",
+      "about": "Tetra Edge Infra LLP is a leading infrastructure and software solutions provider, bridging the gap between physical hardware systems and digital network architectures."
+    }
+  },
+  {
+    "id": "2",
+    "title": "Frontend Developer",
+    "company": "OriginEdge Technologies",
+    "location": "Vastrapur, Ahmedabad",
+    "city": "Ahmedabad",
+    "salary": "₹35,000 - ₹70,000 monthly",
+    "salaryDetails": {
+      "fixed": "₹35,000 - ₹60,000",
+      "earningPotential": "₹70,000"
+    },
+    "chips": [
+      { "type": "workMode", "text": "Hybrid", "icon": "Building" },
+      { "type": "jobType", "text": "Full Time", "icon": "Clock" },
+      { "type": "experience", "text": "Min. 2 years", "icon": "Briefcase" },
+      { "type": "english", "text": "Good English", "icon": "Languages" }
+    ],
+    "expired": false,
+    "hrReply": "Fast HR reply\nHR responded within 2 days to applicants",
+    "applicants": 84,
+    "aboutRole": "OriginEdge Technologies is looking for a Frontend Developer (React.js) to build responsive, user-friendly interfaces. You will build new web applications, optimize loading speeds, implement modern UI animations, and collaborate with backend developers to integrate endpoints.",
+    "responsibilities": [
+      "Build reusable React components, hooks, and frontend libraries for future use.",
+      "Translate designs and wireframes (Figma) into high-quality HTML/CSS/React code.",
+      "Optimize application performance for maximum speed, scalability, and accessibility.",
+      "Collaborate with backend developers to design and consume REST/GraphQL APIs.",
+      "Keep codebase clean, well-documented, and aligned with standard linting rules."
+    ],
+    "requirements": [
+      "Strong proficiency in JavaScript (ES6+), HTML5, and CSS3.",
+      "Solid experience with ReactJS and state management (Redux Toolkit or Context API).",
+      "Proficient in Tailwind CSS, CSS-in-JS, or CSS modules.",
+      "Familiarity with modern build tools like Vite, Webpack, and NPM.",
+      "Experience with Git version control and collaborative workflows."
+    ],
+    "skills": ["React.js", "JavaScript", "Tailwind CSS", "Git", "REST APIs", "State Management", "Responsive Design"],
+    "perks": ["Comprehensive Health Insurance", "Hybrid Work Options", "Paid Annual Leaves", "Laptop Allowance", "Annual Retreats & Learning Budgets"],
+    "companyInfo": {
+      "name": "OriginEdge Technologies",
+      "website": "www.originedgetech.com",
+      "address": "B-607, Block B - Ratnaakar Nine Square, Opp. ITC Hotel, Vastrapur, Ahmedabad 380015",
+      "about": "OriginEdge Technologies is a premier software engineering firm specialized in creating custom web applications, SaaS products, and digital enterprise solutions."
+    }
+  },
+  {
+    "id": "3",
+    "title": "React Native Developer",
+    "company": "TechVantage Solutions",
+    "location": "HSR Layout, Bengaluru/Bangalore",
+    "city": "Bengaluru",
+    "salary": "₹40,000 - ₹85,000 monthly",
+    "salaryDetails": {
+      "fixed": "₹40,000 - ₹75,000",
+      "earningPotential": "₹85,000"
+    },
+    "chips": [
+      { "type": "workMode", "text": "Work from Home", "icon": "Building" },
+      { "type": "jobType", "text": "Full Time", "icon": "Clock" },
+      { "type": "experience", "text": "Min. 3 years", "icon": "Briefcase" },
+      { "type": "english", "text": "Good English", "icon": "Languages" }
+    ],
+    "expired": false,
+    "hrReply": "Fast HR reply\nHR responded within 24 hours to high intent profiles",
+    "applicants": 124,
+    "aboutRole": "We are seeking a Senior React Native Developer to lead our mobile application team. You will be responsible for designing and building premium cross-platform mobile apps for iOS and Android, focusing on highly interactive micro-animations and smooth UI performance.",
+    "responsibilities": [
+      "Build pixel-perfect mobile interfaces using React Native framework.",
+      "Publish and manage applications on Google Play Store and Apple App Store.",
+      "Integrate native modules, third-party APIs, maps, push notifications, and payment gateways.",
+      "Diagnose and fix performance bottlenecks in mobile renders and bridge exchanges.",
+      "Mentor junior developers and participate in code reviews."
+    ],
+    "requirements": [
+      "Proven portfolio of production mobile apps published on App Store/Play Store.",
+      "In-depth understanding of React Native architecture, lifecycle, and native bridges.",
+      "Proficient with Redux Toolkit, Zustand, or MobX state management.",
+      "Experience with mobile-first database integration (Realm, SQLite).",
+      "Strong debugging skills using Flipper, Chrome, or Xcode/Android Studio tools."
+    ],
+    "skills": ["React Native", "iOS Development", "Android Development", "Redux Toolkit", "API Integration", "App Store Deployment", "Zustand"],
+    "perks": ["100% Remote Work Policy", "Monthly Internet & Utility Reimbursements", "Premium Health Cover for Family", "Annual Fitness & Gym Subscription Allowance", "Stock Options (ESOPs)"],
+    "companyInfo": {
+      "name": "TechVantage Solutions",
+      "website": "www.techvantagesols.com",
+      "address": "HSR Layout, Sector 6, Bengaluru, Karnataka 560102",
+      "about": "TechVantage Solutions is an innovative mobile and cloud development agency catering to clients across North America and Europe, designing next-generation consumer apps."
+    }
+  },
+  {
+    "id": "4",
+    "title": "UI/UX Designer",
+    "company": "Creative Minds Studio",
+    "location": "Andheri West, Mumbai",
+    "city": "Mumbai",
+    "salary": "₹30,000 - ₹60,000 monthly",
+    "salaryDetails": {
+      "fixed": "₹30,000 - ₹55,000",
+      "earningPotential": "₹60,000"
+    },
+    "chips": [
+      { "type": "workMode", "text": "Hybrid", "icon": "Building" },
+      { "type": "jobType", "text": "Full Time", "icon": "Clock" },
+      { "type": "experience", "text": "Min. 1 year", "icon": "Briefcase" },
+      { "type": "english", "text": "Good English", "icon": "Languages" }
+    ],
+    "expired": true,
+    "hrReply": "HR responded to 90% candidates in last 3 days",
+    "applicants": 310,
+    "aboutRole": "Creative Minds Studio is hiring a UI/UX Designer to design modern digital platforms. You will design user flows, wireframes, high-fidelity mockups, and interactive prototypes that will delight users and provide premium visual style.",
+    "responsibilities": [
+      "Create user-centered designs for responsive web and mobile products.",
+      "Design standard UI elements, components, typography guidelines, and color systems.",
+      "Perform user research, usability testing, and translate observations into wireframes.",
+      "Collaborate with product managers and engineers to ensure high design fidelity.",
+      "Build high-fidelity prototypes to demonstrate animations and transition dynamics."
+    ],
+    "requirements": [
+      "Proficiency in Figma, Adobe Creative Suite, and prototyping tools.",
+      "Strong portfolio demonstrating visual layout, typography, and interaction design skills.",
+      "Understanding of component libraries and UI design systems (Material Design, Apple HIG).",
+      "Ability to handle constructive feedback and iterate on designs rapidly.",
+      "Basic understanding of HTML/CSS to align layouts with developers is a plus."
+    ],
+    "skills": ["UI/UX Design", "Figma", "Prototyping", "User Research", "Wireframing", "Adobe Suite", "Information Architecture"],
+    "perks": ["Creative Design Autonomy", "Premium MacBook Pro & Dual-Monitor Desk Setup", "Weekly Studio Lunches", "Dedicated Design & Tech Learning Budget", "Flexible Leave Policy"],
+    "companyInfo": {
+      "name": "Creative Minds Studio",
+      "website": "www.creativeminds.design",
+      "address": "102, Shanti Complex, Link Road, Andheri West, Mumbai, Maharashtra 400053",
+      "about": "Creative Minds Studio is a boutique design consultancy craft-building branding, modern websites, and bespoke SaaS interfaces for global startup clients."
+    }
+  }
+]
